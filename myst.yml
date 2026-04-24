@@ -16,7 +16,7 @@ project:
   toc: 
     - file: notebook_01_eda.ipynb
     - file: notebook_02_modelado.ipynb
-    - file: notebook_o3_diagnostico.ipynb
+    - file: notebook_03_diagnostico.ipynb
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
