@@ -22,3 +22,5 @@ project:
     - file: notebook_03_diagnostico.ipynb
 site:
   template: book-theme
+execute:
+  execute_notebooks: off
